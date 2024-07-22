@@ -1,0 +1,22 @@
+/* src/index.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  img {
+    display: inline-block;
+    margin: 10px;
+  }
